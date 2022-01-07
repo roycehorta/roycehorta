@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me emial
+- 📫 How to reach me email
 
 <!---
 roycehorta/roycehorta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
