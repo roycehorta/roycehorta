@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roycehorta
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in Web Development
+- 🌱 I have mastered HTML and CSS. I know Bootstrap and Javascript, but I am currently in the process of learning.
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me email
 
