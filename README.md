@@ -21,21 +21,27 @@ I have been involved in the full software development lifecycle, from requiremen
 During my internship, I collaborated with a cross-functional development team to maintain and enhance web applications using technologies such as HTML, CSS, Bootstrap, Angular.js, and ASP.net. I played a key role in improving application performance and reducing bug reports through diligent coding practices and process improvements.
 
 ## 🎓 Academic Background
-I hold a Bachelor of Science degree in Information Technology, majoring in Web and Mobile Technologies, from Pangasinan State University. My academic journey has equipped me with a solid foundation in software development and cloud computing, which I continue to build upon in my professional career.
+I hold a Bachelor of Science degree in Information Technology, majoring in Web and Mobile Technologies, from Pangasinan State University. ![Pangasinan State University Logo](https://upload.wikimedia.org/wikipedia/en/7/74/Pangasinan_State_University_Logo.png)
 
 ## 🏅 Certifications
-- **Oracle Cloud Infrastructure 2024 Generative AI Professional**
-- **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
-- **Oracle Guided Learning Content Developer Certified Foundations Associate Rel 1**
-- **Oracle Guided Learning Project Management Foundations Associate - Rel 1 (Beta)**
-- **Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**
-- **Oracle Cloud Data Management 2023 Certified Foundations Associate**
+- ![Oracle Logo](https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg) **Oracle Cloud Infrastructure 2024 Generative AI Professional**
+- ![Oracle Logo](https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg) **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
+- ![Oracle Logo](https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg) **Oracle Guided Learning Content Developer Certified Foundations Associate Rel 1**
+- ![Oracle Logo](https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg) **Oracle Guided Learning Project Management Foundations Associate - Rel 1 (Beta)**
+- ![Oracle Logo](https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg) **Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**
+- ![Oracle Logo](https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg) **Oracle Cloud Data Management 2023 Certified Foundations Associate**
 
 ## 🌟 What I'm Looking For
 I am eager to collaborate on Web Development projects, particularly those involving cutting-edge technologies and innovative solutions. I am also open to opportunities that allow me to leverage my expertise in cloud computing and systems administration.
 
 ## 📫 Get in Touch
-If you're interested in collaborating or have any questions, feel free to reach out to me via email at [hortaleza.royced@gmail.com](mailto:hortaleza.royced@gmail.com). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/royce-hortaleza-739001219/).
+If you're interested in collaborating or have any questions, feel free to reach out to me via email at [hortaleza.royced@gmail.com](mailto:hortaleza.royced@gmail.com).
+
+### 🌐 Socials
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/royce-hortaleza-739001219/)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roycehorta)
+
+![Profile Views](https://komarev.com/ghpvc/?username=roycehorta&color=blue)
 
 <!---
 roycehorta/roycehorta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
