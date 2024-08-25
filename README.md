@@ -24,12 +24,12 @@ During my internship, I collaborated with a cross-functional development team to
 I hold a Bachelor of Science degree in Information Technology, majoring in Web and Mobile Technologies, from Pangasinan State University. ![Pangasinan State University Logo](https://upload.wikimedia.org/wikipedia/en/7/74/Pangasinan_State_University_Logo.png)
 
 ## 🏅 Certifications
-- ![Oracle Logo](https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg) **Oracle Cloud Infrastructure 2024 Generative AI Professional**
-- ![Oracle Logo](https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg) **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
-- ![Oracle Logo](https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg) **Oracle Guided Learning Content Developer Certified Foundations Associate Rel 1**
-- ![Oracle Logo](https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg) **Oracle Guided Learning Project Management Foundations Associate - Rel 1 (Beta)**
-- ![Oracle Logo](https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg) **Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**
-- ![Oracle Logo](https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg) **Oracle Cloud Data Management 2023 Certified Foundations Associate**
+- Oracle Cloud Infrastructure 2024 Generative AI Professional**
+- Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
+- Oracle Guided Learning Content Developer Certified Foundations Associate Rel 1**
+- Oracle Guided Learning Project Management Foundations Associate - Rel 1 (Beta)**
+- Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**
+- Oracle Cloud Data Management 2023 Certified Foundations Associate**
 
 ## 🌟 What I'm Looking For
 I am eager to collaborate on Web Development projects, particularly those involving cutting-edge technologies and innovative solutions. I am also open to opportunities that allow me to leverage my expertise in cloud computing and systems administration.
