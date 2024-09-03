@@ -21,7 +21,7 @@ I have been involved in the full software development lifecycle, from requiremen
 During my internship, I collaborated with a cross-functional development team to maintain and enhance web applications using technologies such as HTML, CSS, Bootstrap, Angular.js, and ASP.net. I played a key role in improving application performance and reducing bug reports through diligent coding practices and process improvements.
 
 ## 🎓 Academic Background
-I hold a Bachelor of Science degree in Information Technology, majoring in Web and Mobile Technologies, from Pangasinan State University. ![Pangasinan State University Logo](https://upload.wikimedia.org/wikipedia/en/7/74/Pangasinan_State_University_Logo.png)
+I hold a Bachelor of Science degree in Information Technology, majoring in Web and Mobile Technologies, from Pangasinan State University.
 
 ## 🏅 Certifications
 - Oracle Cloud Infrastructure 2024 Generative AI Professional**
