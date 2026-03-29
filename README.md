@@ -1,49 +1,99 @@
-# 👋 Hi, I'm Royce Hortaleza (@roycehorta)
+# 👋 Hi, I'm Royce Hortaleza
 
 ## 🧑‍💻 About Me
-I am a dedicated Software Engineering Associate and Systems Administrator with a strong passion for technology and innovation. With a background in Web Development, Cloud Computing, and System Management, I bring a comprehensive skill set that combines front-end and back-end development expertise. My experience spans from developing high-quality software applications to diagnosing and resolving complex system issues, all while ensuring operational efficiency and driving technical innovation.
+I’m a Software Engineer Consultant at **EY (Ernst & Young)** specializing in **Oracle Customer Cloud Services (CCS), Oracle Integration Cloud (OIC), and enterprise BI reporting** within the Power & Utilities industry.
+
+I have hands-on experience building **cloud-ready, scalable systems**, developing **API-driven integrations**, and delivering **data-driven insights** through modern BI tools. My work combines software engineering, cloud integration, and consulting—helping organizations transform complex business requirements into efficient technical solutions.
+
+Currently pursuing a **Master of Information Systems at the University of the Philippines Open University (UPOU)** to further deepen my expertise in cloud computing, enterprise systems, and digital transformation.
+
+---
+
+## 💼 Professional Experience
+
+### 💼 Software Engineer: Oracle Utilities BI & Reporting Consultant  
+**EY GDS (CS) Philippines, Inc. | Oct 2025 – Present**
+- Refactored legacy PL/SQL scripts into optimized Oracle Customer Cloud Services (CCS) database objects for cloud environments  
+- Built interactive **Tableau dashboards** to deliver actionable business insights from CCS data  
+- Designed structured data models to support **AI-ready analytics and automation workflows**  
+- Created **Functional Design Documents (FDDs)** and technical specifications in Agile environments  
+- Conducted end-to-end validation of **data pipelines and reporting systems**, ensuring accuracy and performance  
+- Collaborated with stakeholders to translate business requirements into scalable reporting solutions  
+
+---
+
+### ☁️ Oracle Integration Cloud Developer  
+**EY GDS (CS) Philippines, Inc. | Oct 2024 – Oct 2025**
+- Developed enterprise integrations using **Oracle Integration Cloud (OIC)**  
+- Built secure API integrations using **REST/SOAP**, with data transformation via **JSON, XML, XSLT**  
+- Implemented **OAuth 2.0 and JWT authentication** for secure connectivity  
+- Automated workflows using orchestration, publish/subscribe, and scheduled integrations  
+- Delivered hybrid cloud solutions integrating **Oracle ERP Cloud and HCM Cloud**  
+- Utilized **BI Publisher, OTBI, SQL, and PL/SQL** for reporting and data processing  
+
+---
 
 ## 💻 Technical Skills
-- **Front-End Development:** HTML, CSS, Bootstrap, JavaScript, Angular.js, JQuery, AJAX
-- **Back-End Development:** Node.js, Express.js, PHP, Laravel, VB.net, ASP.net, C#
-- **Databases:** MySQL, Microsoft SQL, Firebase Database, SQLite
-- **Cloud Computing:** Amazon Web Services (AWS EC2)
-- **Mobile Development:** Flutter, Dart
-- **Programming Languages:** Java, C#, Python, C++
-- **Development Tools:** Git, SVN, Bitbucket, JIRA, Figma, CPANEL
-- **Methodologies:** Agile SCRUM, Object-Oriented Programming (OOP), Model-View-Controller (MVC), Software Development Life Cycle (SDLC)
 
-## 🏢 Professional Experience
-### 💼 Software Engineering Associate | Systems Administrator
-I have been involved in the full software development lifecycle, from requirement analysis and project planning to implementation and quality assurance. My role includes ensuring that projects are delivered on time, within scope, and with the highest quality standards. I am proficient in managing both front-end and back-end development, utilizing a variety of technologies and frameworks to build robust and scalable applications.
+### ☁️ Cloud & Integration
+- Oracle Integration Cloud (OIC)  
+- Oracle Customer Cloud Services (CCS)  
+- REST & SOAP APIs  
+- OAuth 2.0, JWT Authentication  
+- Hybrid Cloud Architectures  
 
-### 🧑‍💼 Web Developer Intern | SD Solutions I.T. Outsourcing, Inc.
-During my internship, I collaborated with a cross-functional development team to maintain and enhance web applications using technologies such as HTML, CSS, Bootstrap, Angular.js, and ASP.net. I played a key role in improving application performance and reducing bug reports through diligent coding practices and process improvements.
+### 📊 Data & Reporting
+- Tableau  
+- BI Publisher, OTBI  
+- SQL, PL/SQL  
+- Data Modeling & Transformation (JSON, XML, XSLT)  
 
-## 🎓 Academic Background
-I hold a Bachelor of Science degree in Information Technology, majoring in Web and Mobile Technologies, from Pangasinan State University.
+### 🚀 Development
+- JavaScript, Node.js, Express.js  
+- PHP (Laravel), ASP.NET, C#  
+- Angular.js, HTML, CSS, Bootstrap  
 
-## 🏅 Certifications
-- Oracle Cloud Infrastructure 2024 Generative AI Professional**
-- Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
-- Oracle Guided Learning Content Developer Certified Foundations Associate Rel 1**
-- Oracle Guided Learning Project Management Foundations Associate - Rel 1 (Beta)**
-- Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**
-- Oracle Cloud Data Management 2023 Certified Foundations Associate**
+### 🛠️ Tools & Methodologies
+- Git, Bitbucket, SVN  
+- JIRA, ServiceNow  
+- Agile SCRUM, SDLC  
+- Functional Design Documentation (FDD)  
 
-## 🌟 What I'm Looking For
-I am eager to collaborate on Web Development projects, particularly those involving cutting-edge technologies and innovative solutions. I am also open to opportunities that allow me to leverage my expertise in cloud computing and systems administration.
+---
 
-## 📫 Get in Touch
-If you're interested in collaborating or have any questions, feel free to reach out to me via email at [hortaleza.royced@gmail.com](mailto:hortaleza.royced@gmail.com).
+## 🎓 Education
+**Master of Information Systems (Ongoing)**  
+University of the Philippines Open University (UPOU)  
 
-### 🌐 Socials
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/royce-hortaleza-739001219/)
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roycehorta)
+**Bachelor of Science in Information Technology**  
+Major in Web and Mobile Technologies  
+Pangasinan State University – Urdaneta City Campus  
+
+---
+
+## 🏅 Certifications & Achievements
+- Oracle Cloud Infrastructure 2024 Generative AI Professional  
+- **Top 10 Finalist – EY Olympiad TechWars Hackathon PH 2025**  
+- EY Oracle Hackathon 2025  
+- EY Applied AI Certification (2025)  
+- EY Cloud Foundation Certification  
+- EY SAP Foundation Certification  
+
+---
+
+## 🌟 What I’m Looking For
+- Cloud Engineering & Integration projects  
+- Enterprise Software Development  
+- AI-ready systems and data-driven applications  
+- Opportunities in **Oracle Cloud, BI, and system architecture**  
+
+---
+
+## 📫 Connect with Me
+📧 Email: hortaleza.royced@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/royce-hortaleza-739001219/  
+💻 GitHub: https://github.com/roycehorta  
+
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=roycehorta&color=blue)
-
-<!---
-roycehorta/roycehorta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
