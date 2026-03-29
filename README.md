@@ -63,7 +63,7 @@ Currently pursuing a **Master of Information Systems at the University of the Ph
 
 ## 🎓 Education
 **Master of Information Systems (Ongoing)**  
-University of the Philippines Open University (UPOU)  
+University of the Philippines
 
 **Bachelor of Science in Information Technology**  
 Major in Web and Mobile Technologies  
